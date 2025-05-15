@@ -297,15 +297,15 @@ pode impactar diretamente nas atividades essenciais.','Verificar drivers, conex√
 
 
 INSERT INTO Usuario (ID, Nome, Email, DataNascimento, TipoDeUsuario, Departamento, Telefone, DataCadastro, Status, Senha) VALUES
-(usuario_seq.NEXTVAL, 'Grazielle Souza', 'graziellesouza@gmail.com', TO_DATE('23/05/2005', 'DD/MM/YYYY'), 'TECNICO', 'TI', '19982549250', TO_DATE('09/05/2025', 'DD/MM/YYYY'), 'ATIVO', '123');
+(usuario_seq.NEXTVAL, 'Grazielle Souza', 'graziellesouza@gmail.com', TO_DATE('23/05/2005', 'DD/MM/YYYY'), 'TECNICO', 'TI', '19982789150', TO_DATE('09/05/2025', 'DD/MM/YYYY'), 'ATIVO', '123');
 INSERT INTO Usuario (ID, Nome, Email, DataNascimento, TipoDeUsuario, Departamento, Telefone, DataCadastro, Status, Senha) VALUES
-(usuario_seq.NEXTVAL, 'Gabrielle Souza', 'gabriellesouza@gmail.com', TO_DATE('23/05/2005', 'DD/MM/YYYY'), 'COMUM', 'Financeiro', '19982559716', TO_DATE('09/05/2025', 'DD/MM/YYYY'), 'ATIVO', '123');
+(usuario_seq.NEXTVAL, 'Gabrielle Souza', 'gabriellesouza@gmail.com', TO_DATE('23/05/2005', 'DD/MM/YYYY'), 'COMUM', 'Financeiro', '19992559916', TO_DATE('09/05/2025', 'DD/MM/YYYY'), 'ATIVO', '123');
 INSERT INTO Usuario (ID, Nome, Email, DataNascimento, TipoDeUsuario, Departamento, Telefone, DataCadastro, Status, Senha) VALUES
 (usuario_seq.NEXTVAL, 'Julia Souza', 'juliasouza@gmail.com', TO_DATE('27/03/2000', 'DD/MM/YYYY'), 'GERENTE', 'TI', '19123456789', TO_DATE('09/05/2025', 'DD/MM/YYYY'), 'ATIVO', '123');
 INSERT INTO Usuario (ID, Nome, Email, DataNascimento, TipoDeUsuario, Departamento, Telefone, DataCadastro, Status, Senha) VALUES
-(usuario_seq.NEXTVAL, 'Marilene Souza', 'marilenesouza@gmail.com', TO_DATE('24/11/1975', 'DD/MM/YYYY'), 'RH', 'RH', '19987009564', TO_DATE('09/05/2025', 'DD/MM/YYYY'), 'ATIVO', '123');
+(usuario_seq.NEXTVAL, 'Marilene Souza', 'marilenesouza@gmail.com', TO_DATE('24/11/1975', 'DD/MM/YYYY'), 'RH', 'RH', '19987019564', TO_DATE('09/05/2025', 'DD/MM/YYYY'), 'ATIVO', '123');
 INSERT INTO Usuario (ID, Nome, Email, DataNascimento, TipoDeUsuario, Departamento, Telefone, DataCadastro, Status, Senha) VALUES
-(usuario_seq.NEXTVAL, 'Maria Oliveira', 'mariaoliveira@gmail.com', TO_DATE('25/04/1987', 'DD/MM/YYYY'), 'TECNICO', 'TI', '19987254147', TO_DATE('09/05/2025', 'DD/MM/YYYY'), 'ATIVO', '123');
+(usuario_seq.NEXTVAL, 'Maria Oliveira', 'mariaoliveira@gmail.com', TO_DATE('25/04/1987', 'DD/MM/YYYY'), 'TECNICO', 'TI', '19987854147', TO_DATE('09/05/2025', 'DD/MM/YYYY'), 'ATIVO', '123');
 INSERT INTO Usuario (ID, Nome, Email, DataNascimento, TipoDeUsuario, Departamento, Telefone, DataCadastro, Status, Senha) VALUES
 (usuario_seq.NEXTVAL, 'Jo√£o Campos', 'joaocampos@gmail.com', TO_DATE('01/08/1995', 'DD/MM/YYYY'), 'TECNICO', 'TI', '19987001452', TO_DATE('09/05/2025', 'DD/MM/YYYY'), 'ATIVO', '123');
 INSERT INTO Usuario (ID, Nome, Email, DataNascimento, TipoDeUsuario, Departamento, Telefone, DataCadastro, Status, Senha) VALUES
